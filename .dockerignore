@@ -1,0 +1,6 @@
+models/*
+notebooks
+reports
+venv*
+*.pdf
+*.md
