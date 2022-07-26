@@ -6,7 +6,7 @@
 # About dataset
 Dataset used in this project is modified imdb dataset that can be found on kaggle.    
 
-![alt text](https://github.com/KordianPiduch/imdb-sentiment-classification/blob/main/reports/data_imbalanced.jpg "imbalanced")
+![alt text](https://github.com/KordianPiduch/imdb_sentiment_classification/blob/main/reports/data_imbalanced.jpg "imbalanced")
 
 Dataset is very imbalanced, and reviews need to be cleaned before applying to model. 
 All steps are shown in /notebooks/1-kp-process-data.ipynb
@@ -31,7 +31,7 @@ weighted avg       0.96      0.96      0.96      5501
 
 ```
 Confusion Matrix:  
-![alt text](https://github.com/KordianPiduch/imdb-sentiment-classification/blob/main/reports/model_ConfusionMatrix.jpg)
+![alt text](https://github.com/KordianPiduch/imdb_sentiment_classification/blob/main/reports/model_ConfusionMatrix.jpg)
 
 
 # Run application without docker 
